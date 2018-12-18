@@ -138,6 +138,7 @@ git branch branchname
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -259,6 +260,8 @@ git pull
 
 
 ㅋㅋㅋ.....어음.....노래방 그래 우선 ㅋㅋㅋㅋ
+=======
+>>>>>>> parent of a0799b1... love: i love you very much!
 =======
 >>>>>>> parent of a0799b1... love: i love you very much!
 

@@ -87,6 +87,7 @@ dndhkd우왕
 병합은 어떠케해 ? 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 오앙
 윈도우는 자격 증명ㄹ관리자에서 따로 **수정을 해조야되나바 **
@@ -218,6 +219,8 @@ f ?
 ㅋㅋㅋㅋㅋㅐ
 ㅐ
 
+=======
+>>>>>>> parent of a0799b1... love: i love you very much!
 =======
 >>>>>>> parent of a0799b1... love: i love you very much!
 =======
